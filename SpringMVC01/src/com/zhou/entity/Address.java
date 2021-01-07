@@ -1,5 +1,5 @@
 package com.zhou.entity;
-
+//address
 public class Address {
 	private String homeAddress;
 	private String schoolAddress;
